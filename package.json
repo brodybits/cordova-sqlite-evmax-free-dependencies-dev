@@ -1,14 +1,14 @@
 {
-  "name": "cordova-sqlite-evplus-ext-free-dependencies",
-  "version": "0.5.11",
-  "description": "Cordova sqlite evplus free dependencies",
+  "name": "cordova-sqlite-evmax-free-dependencies",
+  "version": "0.0.1-dev",
+  "description": "Cordova sqlite evmax free dependencies",
   "main": "404.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brodybits/cordova-sqlite-evplus-ext-free-dependencies.git"
+    "url": "git+https://github.com/brodybits/cordova-sqlite-evmax-free-dependencies.git"
   },
   "keywords": [
     "cordova",
@@ -18,7 +18,7 @@
   "author": "Christopher J. Brody",
   "license": "GPL-3.0 OR Commercial",
   "bugs": {
-    "url": "https://github.com/brodybits/cordova-sqlite-evplus-ext-free-dependencies/issues"
+    "url": "https://github.com/brodybits/cordova-sqlite-evmax-free-dependencies/issues"
   },
-  "homepage": "https://github.com/brodybits/cordova-sqlite-evplus-ext-free-dependencies#readme"
+  "homepage": "https://github.com/brodybits/cordova-sqlite-evmax-free-dependencies#readme"
 }
