@@ -6,7 +6,7 @@ LICENSE: GPL v3 (<https://www.gnu.org/licenses/gpl-3.0.txt>) or commercial licen
 
 Contains source and library (shared object) code built from:
 - [brodybits / android-sqlite-evmax-ndk-driver-free](https://github.com/brodybits/android-sqlite-evmax-ndk-driver-free) - with GPL v3 or commercial license options
-- [SQLite (sqlite.org)](https://sqlite.org/) version `3.40.0` - public domain
+- [SQLite (sqlite.org)](https://sqlite.org/) version `3.43.1` - public domain
 - [brodybits / sqlite3-regexp-cached](https://github.com/brodybits/sqlite3-regexp-cached) (based on <http://git.altlinux.org/people/at/packages/?p=sqlite3-pcre.git> by Alexey Tourbin, public domain)
 - [brodybits / sqlite3-base64](https://github.com/brodybits/sqlite3-base64) (Unlicense, public domain)
 - [brodybits / libb64-core](https://github.com/brodybits/libb64-core) (based on <http://libb64.sourceforge.net/> by Chris Venter, public domain)
@@ -32,3 +32,4 @@ This project provides the following dependencies needed to build Cordova SQLite 
    - `-DSQLITE_ENABLE_JSON1`
    - `-DSQLITE_DEFAULT_PAGE_SIZE=4096`
    - `-DSQLITE_DEFAULT_CACHE_SIZE=-2000`
+   - `-DSQLITE_ENABLE_MATH_FUNCTIONS`
